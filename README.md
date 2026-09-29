@@ -5,4 +5,3 @@ Practical notes, snippets, and patterns from 20+ years of GIS and data engineeri
 
 | Date | Topic | Note |
 |------|-------|------|
-| 2026-09-29 | Spatial joins | [Spatial joins that quietly duplicate rows on shared boundaries](notes/2026-09-29-spatial-join-boundary-duplicates.md) |
