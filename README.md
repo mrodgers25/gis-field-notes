@@ -7,3 +7,4 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 
 | Date | Topic | Note |
 |------|-------|------|
+| 2026-09-29 | ArcGIS silently drops attributes with the wrong field names | [Read](notes/2026-09-29-validate-payload-keys-before-edit-features.md) |

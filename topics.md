@@ -2,7 +2,7 @@
 
 Real problems from my project work. The daily routine writes up the first unchecked item, anonymized, then checks it off. I add new items as they come up.
 
-- [ ] **ArcGIS silently drops attributes with the wrong field names.** A CRM-to-AGOL backfill of ~34,000 records "succeeded" with most attributes blank, because the code used CRM-style keys that didn't match the layer's real field names. The fix: validate payload keys against the layer schema before calling edit_features.
+- [x] **ArcGIS silently drops attributes with the wrong field names.** A CRM-to-AGOL backfill of ~34,000 records "succeeded" with most attributes blank, because the code used CRM-style keys that didn't match the layer's real field names. The fix: validate payload keys against the layer schema before calling edit_features.
 - [ ] **Never cache OBJECTIDs.** Republishing a layer can reassign OBJECTIDs. Store a stable external key (the CRM record ID) and look up the OBJECTID at write time.
 - [ ] **Geocoding fallbacks that don't lie.** Handle military APO/FPO addresses (AA/AE/AP), fall back to ZIP centroids, and write null geometry instead of 0,0 when there's no address, so nothing lands on "Null Island."
 - [ ] **Reuse coordinates in a migration with an address hash.** Hash normalized addresses to match records against an old layer and reuse existing coordinates. About 90% of records needed no re-geocoding, which saved credits and time.
