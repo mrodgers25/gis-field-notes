@@ -5,6 +5,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 
 ## Notes index
 
-| Date | Topic | Note |
+| When | Topic | Note |
 |------|-------|------|
-| 2026-09-29 | ArcGIS silently drops attributes with the wrong field names | [Read](notes/2026-09-29-validate-payload-keys-before-edit-features.md) |
+| August 2026 | Never cache OBJECTIDs | [Read](notes/2026-08-never-cache-objectids.md) |
+| August 2026 | ArcGIS silently drops attributes with the wrong field names | [Read](notes/2026-08-validate-payload-keys-before-edit-features.md) |

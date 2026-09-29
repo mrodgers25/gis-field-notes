@@ -1,5 +1,7 @@
 # ArcGIS silently drops attributes with the wrong field names
 
+*Worked on: August 2026*
+
 I recently ran a backfill that pushed roughly 34,000 records from a donor CRM into a hosted feature layer in ArcGIS Online. The job finished with no errors. Every batch reported success. Then I opened the layer and found that most of the attributes were blank.
 
 ## What went wrong
