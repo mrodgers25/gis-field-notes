@@ -7,6 +7,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 
 | When | Topic | Note |
 |------|-------|------|
+| August 2026 | Reuse coordinates in a migration with an address hash | [Read](notes/2026-08-reuse-coordinates-with-address-hash.md) |
 | August 2026 | Geocoding fallbacks that don't lie | [Read](notes/2026-08-geocoding-fallbacks-that-dont-lie.md) |
 | August 2026 | Never cache OBJECTIDs | [Read](notes/2026-08-never-cache-objectids.md) |
 | August 2026 | ArcGIS silently drops attributes with the wrong field names | [Read](notes/2026-08-validate-payload-keys-before-edit-features.md) |
