@@ -7,6 +7,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 
 | When | Topic | Note |
 |------|-------|------|
+| October 2026 | Nightly health checks for Google Sheets CSV data feeds | [Read](notes/2026-10-nightly-health-checks-for-sheets-csv-feeds.md) |
 | September 2026 | The stale Lambda test event that re-ran a two-week-old delta | [Read](notes/2026-09-stale-lambda-test-event.md) |
 | August 2026 | Reuse coordinates in a migration with an address hash | [Read](notes/2026-08-reuse-coordinates-with-address-hash.md) |
 | August 2026 | Geocoding fallbacks that don't lie | [Read](notes/2026-08-geocoding-fallbacks-that-dont-lie.md) |

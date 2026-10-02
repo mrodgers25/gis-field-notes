@@ -23,4 +23,4 @@ Real problems from my project work. The daily routine writes up the first unchec
 - [ ] `2026-09` **Lowercase globalid/objectid fields breaking joins.** Hosted layers created outside the usual path had lowercase system field names. How that broke scripts and dashboard data expressions that join distribution and follow-up records by barcode.
 - [ ] `2026-07` **Fixing ArcGIS Hub sitemap XML.** Unescaped ampersands, messy slugs, and duplicate pages that kept search engines from indexing a community mapping site.
 - [ ] `2026-07` **Open data portals aren't all the same.** California's health data portal runs CKAN, not Socrata, and some official APIs require auth. Plan integration approaches during discovery.
-
+- [x] `2026-10` **Nightly health checks for Google Sheets CSV data feeds.** A water-quality nonprofit's site pulls monitoring data from Google Sheets CSV export links, and two of five links were failing unnoticed. A broken export can return HTTP 200 with an HTML page, so a Lambda (stdlib + boto3, EventBridge Scheduler at 2:00 AM Pacific) checks status, rejects HTML, parses the CSV, and emails via SES only on failure.
