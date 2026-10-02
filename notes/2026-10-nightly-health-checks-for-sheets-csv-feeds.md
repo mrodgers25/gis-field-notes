@@ -42,9 +42,9 @@ def check(name, cfg):
     return f"Missing columns: {missing}" if missing else None  # None = pass
 ```
 
-If anything fails, it sends a styled HTML email through SES that lists broken links in red and passing ones in green. If everything passes, it sends nothing and just writes to the log. A quiet inbox means all feeds are healthy.
+If any link fails, it sends a nicely formatted HTML alert email through SES: a branded header, a red banner with the count (e.g. "2 of 5 data links are broken"), then one color-coded card per feed — broken feeds first with a red "BROKEN" badge, the error reason, and the link; passing feeds in green with a "PASSING" badge and their row/column counts — plus a "common fixes" section and a timestamp in Pacific time. 
 
-The monitor started with 5 feeds and now covers 8. Adding one is a one-line change to the dictionary.
+I built the email with table-based layout and inline styles so it renders consistently across email clients, and included a plain-text version as a fallback. It started with 5 feeds and now monitors 8; adding a feed is a one-line change to a dictionary.
 
 ## Common causes of a broken link
 
