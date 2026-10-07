@@ -8,6 +8,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 | When | Topic | Note |
 |------|-------|------|
 | October 2026 | Nightly health checks for Google Sheets CSV data feeds | [Read](notes/2026-10-nightly-health-checks-for-sheets-csv-feeds.md) |
+| September 2026 | A Survey123 calculated field that silently dropped selections | [Read](notes/2026-09-survey123-concat-dropped-selections.md) |
 | September 2026 | Cron in AWS: EventBridge Scheduler, not Rules | [Read](notes/2026-09-eventbridge-scheduler-not-rules.md) |
 | September 2026 | The stale Lambda test event that re-ran a two-week-old delta | [Read](notes/2026-09-stale-lambda-test-event.md) |
 | August 2026 | Salesforce to ArcGIS with the OAuth Client Credentials flow | [Read](notes/2026-08-salesforce-to-arcgis-client-credentials.md) |
