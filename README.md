@@ -19,3 +19,4 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 | August 2026 | Geocoding fallbacks that don't lie | [Read](notes/2026-08-geocoding-fallbacks-that-dont-lie.md) |
 | August 2026 | Never cache OBJECTIDs | [Read](notes/2026-08-never-cache-objectids.md) |
 | August 2026 | ArcGIS silently drops attributes with the wrong field names | [Read](notes/2026-08-validate-payload-keys-before-edit-features.md) |
+| July 2026 | Experience Builder's 10-Arcade-expressions-per-page cap | [Read](notes/2026-07-experience-builder-arcade-expression-cap.md) |
