@@ -8,6 +8,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 | When | Topic | Note |
 |------|-------|------|
 | October 2026 | Nightly health checks for Google Sheets CSV data feeds | [Read](notes/2026-10-nightly-health-checks-for-sheets-csv-feeds.md) |
+| September 2026 | Letting members edit their own profiles without database access | [Read](notes/2026-09-member-self-service-profile-updater.md) |
 | September 2026 | Make.com formatting tricks for field-data emails | [Read](notes/2026-09-make-formatting-tricks-for-field-data-emails.md) |
 | September 2026 | A Survey123 calculated field that silently dropped selections | [Read](notes/2026-09-survey123-concat-dropped-selections.md) |
 | September 2026 | Cron in AWS: EventBridge Scheduler, not Rules | [Read](notes/2026-09-eventbridge-scheduler-not-rules.md) |
