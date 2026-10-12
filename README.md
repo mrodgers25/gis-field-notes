@@ -13,6 +13,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 | September 2026 | A Survey123 calculated field that silently dropped selections | [Read](notes/2026-09-survey123-concat-dropped-selections.md) |
 | September 2026 | Cron in AWS: EventBridge Scheduler, not Rules | [Read](notes/2026-09-eventbridge-scheduler-not-rules.md) |
 | September 2026 | The stale Lambda test event that re-ran a two-week-old delta | [Read](notes/2026-09-stale-lambda-test-event.md) |
+| August 2026 | Screening nonprofit leads from IRS bulk data | [Read](notes/2026-08-screening-nonprofit-leads-from-irs-data.md) |
 | August 2026 | Protecting donor privacy for outside analysts | [Read](notes/2026-08-donor-privacy-zip-centroid-view-layer.md) |
 | August 2026 | Salesforce to ArcGIS with the OAuth Client Credentials flow | [Read](notes/2026-08-salesforce-to-arcgis-client-credentials.md) |
 | August 2026 | The arcgis Python package is too big for a Lambda zip | [Read](notes/2026-08-arcgis-package-lambda-container-image.md) |
