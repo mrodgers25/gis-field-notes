@@ -24,6 +24,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 | August 2026 | Geocoding fallbacks that don't lie | [Read](notes/2026-08-geocoding-fallbacks-that-dont-lie.md) |
 | August 2026 | Never cache OBJECTIDs | [Read](notes/2026-08-never-cache-objectids.md) |
 | August 2026 | ArcGIS silently drops attributes with the wrong field names | [Read](notes/2026-08-validate-payload-keys-before-edit-features.md) |
+| July 2026 | Every web map in my account said "Modified: today" | [Read](notes/2026-07-web-maps-all-modified-today.md) |
 | July 2026 | Deny-lists beat allow-lists for search eligibility | [Read](notes/2026-07-deny-lists-beat-allow-lists-for-search-eligibility.md) |
 | July 2026 | The review CSV that hid earlier results | [Read](notes/2026-07-review-csv-that-hid-earlier-results.md) |
 | July 2026 | Review before you write to a live layer | [Read](notes/2026-07-review-before-you-write-to-live-layer.md) |
