@@ -24,6 +24,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 | August 2026 | Geocoding fallbacks that don't lie | [Read](notes/2026-08-geocoding-fallbacks-that-dont-lie.md) |
 | August 2026 | Never cache OBJECTIDs | [Read](notes/2026-08-never-cache-objectids.md) |
 | August 2026 | ArcGIS silently drops attributes with the wrong field names | [Read](notes/2026-08-validate-payload-keys-before-edit-features.md) |
+| July 2026 | Prepping federal shortage-area data for ArcGIS Online | [Read](notes/2026-07-prepping-hpsa-shortage-area-data-for-agol.md) |
 | July 2026 | A 400 error from a smaller model and the web_search tool | [Read](notes/2026-07-400-error-smaller-model-web-search-tool.md) |
 | July 2026 | Every web map in my account said "Modified: today" | [Read](notes/2026-07-web-maps-all-modified-today.md) |
 | July 2026 | Deny-lists beat allow-lists for search eligibility | [Read](notes/2026-07-deny-lists-beat-allow-lists-for-search-eligibility.md) |
