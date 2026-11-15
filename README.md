@@ -8,6 +8,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 | When | Topic | Note |
 |------|-------|------|
 | October 2026 | Nightly health checks for Google Sheets CSV data feeds | [Read](notes/2026-10-nightly-health-checks-for-sheets-csv-feeds.md) |
+| September 2026 | Arcade can't inject HTML into a Map Viewer pop-up | [Read](notes/2026-09-arcade-cant-inject-html-into-map-viewer-popup.md) |
 | September 2026 | An environment variable that exists but is blank | [Read](notes/2026-09-environment-variable-exists-but-blank.md) |
 | September 2026 | Batch geocoding that put Texas donors in California | [Read](notes/2026-09-batch-geocoding-texas-donors-in-california.md) |
 | September 2026 | Lowercase globalid/objectid fields breaking joins | [Read](notes/2026-09-lowercase-globalid-objectid-breaking-joins.md) |
