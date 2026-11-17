@@ -8,6 +8,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 | When | Topic | Note |
 |------|-------|------|
 | October 2026 | Nightly health checks for Google Sheets CSV data feeds | [Read](notes/2026-10-nightly-health-checks-for-sheets-csv-feeds.md) |
+| September 2026 | A Survey123 geopoint constraint that actually works | [Read](notes/2026-09-survey123-geopoint-constraint-that-works.md) |
 | September 2026 | Fixing 44 survey points that took the fallback location | [Read](notes/2026-09-fixing-survey-points-that-took-the-fallback-location.md) |
 | September 2026 | Arcade can't inject HTML into a Map Viewer pop-up | [Read](notes/2026-09-arcade-cant-inject-html-into-map-viewer-popup.md) |
 | September 2026 | An environment variable that exists but is blank | [Read](notes/2026-09-environment-variable-exists-but-blank.md) |
