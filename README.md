@@ -7,6 +7,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 
 | When | Topic | Note |
 |------|-------|------|
+| October 2026 | "No mapping exists from object type MapPoint": two geopoints in one form | [Read](notes/2026-10-two-geopoints-no-mapping-from-mappoint.md) |
 | October 2026 | Nightly health checks for Google Sheets CSV data feeds | [Read](notes/2026-10-nightly-health-checks-for-sheets-csv-feeds.md) |
 | September 2026 | Make.com formulas that fail without an error | [Read](notes/2026-09-make-formulas-that-fail-without-an-error.md) |
 | September 2026 | Four Survey123 field-deployment gotchas | [Read](notes/2026-09-four-survey123-field-deployment-gotchas.md) |
