@@ -7,6 +7,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 
 | When | Topic | Note |
 |------|-------|------|
+| October 2026 | Why a dashboard said it used two web maps | [Read](notes/2026-10-why-a-dashboard-said-it-used-two-web-maps.md) |
 | October 2026 | The Survey123 Connect rich-text editor deletes your HTML | [Read](notes/2026-10-survey123-connect-rich-text-editor-strips-html.md) |
 | October 2026 | Survey123 calculationMode isn't guaranteed in the web form | [Read](notes/2026-10-survey123-calculationmode-web-form.md) |
 | October 2026 | Saving coordinates exactly as the field worker typed them | [Read](notes/2026-10-saving-coordinates-as-typed.md) |
