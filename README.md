@@ -7,6 +7,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 
 | When | Topic | Note |
 |------|-------|------|
+| October 2026 | Schema landmines in an inherited annual-update layer | [Read](notes/2026-10-schema-landmines-in-inherited-annual-layer.md) |
 | October 2026 | Six schools that vanished: missing coordinates, not missing IDs | [Read](notes/2026-10-six-schools-missing-coordinates-not-ids.md) |
 | October 2026 | Why a dashboard said it used two web maps | [Read](notes/2026-10-why-a-dashboard-said-it-used-two-web-maps.md) |
 | October 2026 | The Survey123 Connect rich-text editor deletes your HTML | [Read](notes/2026-10-survey123-connect-rich-text-editor-strips-html.md) |
