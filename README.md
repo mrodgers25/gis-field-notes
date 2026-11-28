@@ -7,6 +7,7 @@ Notes are drafted with AI assistance from my own project work and reviewed by me
 
 | When | Topic | Note |
 |------|-------|------|
+| October 2026 | Archiving rows from a visually grouped sheet | [Read](notes/2026-10-archiving-rows-from-a-visually-grouped-sheet.md) |
 | October 2026 | "The document must not be an Office file": reading a Google Sheet from Lambda | [Read](notes/2026-10-document-must-not-be-an-office-file.md) |
 | October 2026 | Schema landmines in an inherited annual-update layer | [Read](notes/2026-10-schema-landmines-in-inherited-annual-layer.md) |
 | October 2026 | Six schools that vanished: missing coordinates, not missing IDs | [Read](notes/2026-10-six-schools-missing-coordinates-not-ids.md) |
